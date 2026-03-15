@@ -12,3 +12,4 @@ C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MOD
 C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.pdb
 C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.genruntimeconfig.cache
 C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\ref\TP_MODUL4_103022400123.dll
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.sourcelink.json
