@@ -1,0 +1,14 @@
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\bin\Debug\net10.0\TP_MODUL4_103022400123.exe
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\bin\Debug\net10.0\TP_MODUL4_103022400123.deps.json
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\bin\Debug\net10.0\TP_MODUL4_103022400123.runtimeconfig.json
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\bin\Debug\net10.0\TP_MODUL4_103022400123.dll
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\bin\Debug\net10.0\TP_MODUL4_103022400123.pdb
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.AssemblyInfoInputs.cache
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.AssemblyInfo.cs
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.csproj.CoreCompileInputs.cache
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.dll
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\refint\TP_MODUL4_103022400123.dll
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.pdb
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\TP_MODUL4_103022400123.genruntimeconfig.cache
+C:\Users\razka\OneDrive\Documents\Tel-U\Kuliah\KPL\TP_MODUL4_103022400123\TP_MODUL4_103022400123\obj\Debug\net10.0\ref\TP_MODUL4_103022400123.dll
